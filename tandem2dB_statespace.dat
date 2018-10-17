@@ -1,0 +1,9 @@
+
+
+param dimen := 2;
+
+set cuts[0] := 0 1 5 10;
+set cuts[1] := 0 1 10;
+
+
+
